@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# About Us
 
-You can use the [editor on GitHub](https://github.com/Stacks-Indonesia/Stacks-Indonesia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![Made in Indonesia](https://made-in-indonesia.github.io/made-in-indonesia.svg)](https://github.com/made-in-indonesia/made-in-indonesia)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Stacks Indonesia is a community where Web3 builder and enthusiast of Stacks & Bitcoin Blockchain meet and gather together to discuss and grow Web3 ecosystem in Jakarta, Indonesia and beyond.
 
-### Markdown
+## What's the purpose of the group?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Discussing all things about Bitcoin smart contracts, Stacks and related technologies.
 
-```markdown
-Syntax highlighted code block
+## Who should join?
 
-# Header 1
-## Header 2
-### Header 3
+- For people who want to write smart contracts in Bitcoin and use Stacks and Clarity language to write smart contracts.
 
-- Bulleted
-- List
+## What will you do at our events?
 
-1. Numbered
-2. List
+- Peer discussion
 
-**Bold** and _Italic_ and `Code` text
+- Seminars
 
-[Link](url) and ![Image](src)
-```
+- Study Club
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Book Club
 
-### Jekyll Themes
+# Join our discussion
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stacks-Indonesia/Stacks-Indonesia.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Discord](https://discord.gg/TQEaT2DGuM)
+* [Telegram](https://t.me/stxindonesia)
+* [Meetup](https://www.meetup.com/stacks-indonesia/)
