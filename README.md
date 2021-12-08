@@ -25,6 +25,6 @@ Stacks Indonesia is a community where Web3 builder and enthusiast of Stacks & Bi
 # Join our discussion
 
 * [Discord](https://discord.gg/TQEaT2DGuM)
-* [Telegram](https://t.me/stxindonesia)
+* [Telegram](https://t.me/StacksIndonesia)
 * [Meetup](https://www.meetup.com/stacks-indonesia/)
 * [Community Notion Page](https://stacks-indonesia.notion.site/)
